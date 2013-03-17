@@ -1,0 +1,3 @@
+cd /Volumes/rosi\'s\ drive/personal/Art/Turk/working
+python turk_csv_parser.py | grep -i sex
+python turk_csv_parser.py | grep -i sex | wc -l
